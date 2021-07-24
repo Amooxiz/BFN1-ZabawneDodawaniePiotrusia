@@ -1,2 +1,2 @@
-# BFN1-ZabawneDodawaniePiotrusiaSPOJ
- C++ and Python solutions
+# BFN1-ZabawneDodawaniePiotrusia
+ SPOJ, Python, C++ solutions
